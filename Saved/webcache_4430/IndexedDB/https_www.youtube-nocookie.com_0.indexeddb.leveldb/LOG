@@ -1,0 +1,6 @@
+2023/09/16-00:07:23.838 72d4 Creating DB D:/jeux/gameJam/GameJam/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/16-00:07:23.977 72d4 Reusing MANIFEST D:/jeux/gameJam/GameJam/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/16-00:13:28.540 22f8 Level-0 table #5: started
+2023/09/16-00:13:28.556 22f8 Level-0 table #5: 1167 bytes OK
+2023/09/16-00:13:28.558 22f8 Delete type=0 #3
+2023/09/16-00:13:28.559 22f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
