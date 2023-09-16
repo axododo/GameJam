@@ -1281,3 +1281,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.16-20.40.11:207][877]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2023.09.16-20.40.54:695][  8]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2023.09.16-20.41.22:403][ 91]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.09.16-20.42.06:401][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.09.16-20.42.06:405][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main/test" FILE="../../../../../jeux/gameJam/GameJam/Saved/Autosaves/Game/main/test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.09.16-20.42.06:422][677]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.014769 seconds
+[2023.09.16-20.42.06:428][677]LogSerialization: UsePackageTrailer: 'true'
+[2023.09.16-20.42.06:434][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/main/test_Auto1
+[2023.09.16-20.42.06:434][677]LogSavePackage: Moving '../../../../../jeux/gameJam/GameJam/Saved/test_Auto19E7268D64F888373EEDB0D83545F15B2.tmp' to '../../../../../jeux/gameJam/GameJam/Saved/Autosaves/Game/main/test_Auto1.umap'
+[2023.09.16-20.42.06:450][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main/test' took 0.086
+[2023.09.16-20.42.06:450][677]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2023.09.16-20.42.06:452][677]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/main/char/CH_main] ([2] browsable assets)...
+[2023.09.16-20.42.06:453][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.16-20.42.06:531][677]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/main/char/CH_main.CH_main_C]
+[2023.09.16-20.42.06:542][677]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/main/char/CH_main.CH_main]
+[2023.09.16-20.42.06:542][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/main/char/CH_main]
+[2023.09.16-20.42.06:543][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main/char/CH_main" FILE="../../../../../jeux/gameJam/GameJam/Saved/Autosaves/Game/main/char/CH_main_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.09.16-20.42.06:557][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/main/char/CH_main_Auto1
+[2023.09.16-20.42.06:557][677]LogSavePackage: Moving '../../../../../jeux/gameJam/GameJam/Saved/CH_main_Auto19A795287436FA873E086EE9BE92CC8BA.tmp' to '../../../../../jeux/gameJam/GameJam/Saved/Autosaves/Game/main/char/CH_main_Auto1.uasset'
+[2023.09.16-20.42.06:558][677]LogFileHelpers: Auto-saving content packages took 0.108
+[2023.09.16-20.42.46:849][807]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.09.16-20.43.00:086][847]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
